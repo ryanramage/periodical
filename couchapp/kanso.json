@@ -1,0 +1,13 @@
+{
+    "name": "periodical",
+    "version": "0.0.1",
+    "description": "The simplest possible app",
+    "attachments": ["index.html", "templates", "css", "img", "jam", "js"],
+    "load": "lib/app",
+    "modules": ["lib"],
+    "dependencies": {
+        "modules": null,
+        "attachments": null,
+        "properties": null
+    }
+}
