@@ -3,6 +3,8 @@ Periodical
 
 The continuous module publisher for JavaScript
 
+[![Build Status](https://travis-ci.org/ryanramage/periodical.png)](https://travis-ci.org/ryanramage/periodical)
+
 About
 -----
 
